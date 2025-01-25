@@ -68,8 +68,8 @@ export default function Contact() {
 
             <div className="mt-24">
                 <CgArrowLongDownR className="text-sky-500 w-[112px] h-[68px] md:ml-[650px]" />
-                <h1 className="text-blue-950 font-semibold mt-6 uppercase md:ml-[600px]">We can't wait to meet you</h1>
-                <h1 className="text-blue-950 font-semibold mt-6 text-5xl md:ml-[610px]">Let's Talk</h1>
+                <h1 className="text-blue-950 font-semibold mt-6 uppercase md:ml-[600px]">We can&apos;t wait to meet you</h1>
+                <h1 className="text-blue-950 font-semibold mt-6 text-5xl md:ml-[610px]">Let&apos;s Talk</h1>
                 <button className="bg-sky-500 text-white font-semibold flex items-center justify-center w-[200px] h-[52px] md:ml-[620px] mt-6 rounded-md">Try for free now</button>
             </div>
         </div>

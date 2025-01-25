@@ -185,7 +185,7 @@ export default function Pricing() {
         {/* FAQ Content Here */}
       </div>
 
-      <p className="text-gray-500 font-extralight mt-8 flex justify-center">Haven't got your answer? Contact our support</p>
+      <p className="text-gray-500 font-extralight mt-8 flex justify-center">Haven&apos;t got your answer? Contact our support</p>
 
       <h1 className="text-blue-950 font-semibold text-3xl flex justify-center mt-[200px]">Start your 14 days free trial</h1>
       <p className="text-gray-500 font-extralight mt-6 flex justify-center text-center">

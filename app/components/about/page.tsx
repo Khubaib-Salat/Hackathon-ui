@@ -12,7 +12,7 @@ export default function About() {
           <h2 className="text-blue-950 mt-32 font-semibold">ABOUT COMPANY</h2>
           <h1 className="text-blue-950 mt-7 font-semibold text-4xl">ABOUT US</h1>
           <p className="mt-7 text-gray-500">
-            we know how large objects will act,<br />but things on a small scale.
+            we know how large objects will act,&lt;br /&gt;but things on a small scale.
           </p>
           <button className="w-[200px] h-[48px] text-white font-semibold bg-sky-500 rounded-sm mt-7 flex items-center justify-center">
             Get Qoute Now
@@ -175,7 +175,7 @@ export default function About() {
       <div className="md:grid md:grid-cols-3 md:w-full md:ml-[100px] md:mb-20">
         <div className="bg-blue-500 md:w-[1440px] md:h-[636px] md:col-span-2 w-[500px] h-[900px]">
           <h2 className="text-white md:ml-[200px] md:mt-[150px] ml-32 font-semibold">WORK WITH US</h2>
-          <h1 className="text-white md:ml-[200px] mt-6 font-semibold text-3xl ml-10">Now Let's grow Yours</h1>
+          <h1 className="text-white md:ml-[200px] mt-6 font-semibold text-3xl ml-10">Now Let&apos;s grow Yours</h1>
           <p className="text-gray-300 md:ml-[200px] mt-6">
             The gradual accumulation of information about atomic and<br />small-scale behavior during the first quarter of the 20th
           </p>

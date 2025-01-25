@@ -28,7 +28,7 @@ export default function Navbar() {
       {/* Editor's Pick Section */}
       <section className="bg-gray-50 py-12">
         <div className="text-center mb-10">
-          <h1 className="text-2xl font-semibold text-blue-950">EDITOR'S PICK</h1>
+          <h1 className="text-2xl font-semibold text-blue-950">EDITOR&apos;S PICK</h1>
           <p className="text-gray-500 font-semibold mt-2">
             Problems trying to resolve the conflict between
           </p>
@@ -190,9 +190,9 @@ export default function Navbar() {
                   <li>Trending</li>
                   <li>New</li>
                 </ul>
-                <h1 className="text-2xl font-semibold">Loudest à la Madison #1 (L'integral)</h1>
+                <h1 className="text-2xl font-semibold">Loudest à la Madison #1 (L&apos;integral)</h1>
                 <p className="text-gray-500 font-extralight mt-2">
-                  We focus on ergonomics and meeting you where you work. It's only a keystroke away.
+                  We focus on ergonomics and meeting you where you work. It&apos;s only a keystroke away.
                 </p>
                 <div className="flex justify-between items-center mt-4">
                   <div className="flex items-center">
